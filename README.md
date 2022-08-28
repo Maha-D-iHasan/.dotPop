@@ -1,4 +1,4 @@
-# .dotArch
+# .dotPop
 Dotfiles of my PopOS! and Awesome Window Manager.
 
 # tap to click problem on laptop
